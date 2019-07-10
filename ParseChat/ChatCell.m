@@ -8,6 +8,10 @@
 
 #import "ChatCell.h"
 
+
+
+
+
 @implementation ChatCell
 
 - (void)awakeFromNib {
@@ -20,5 +24,8 @@
 
     // Configure the view for the selected state
 }
+
+
+
 
 @end
